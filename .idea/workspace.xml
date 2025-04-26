@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2979966-13e0-49c9-b299-ea62761663f2" name="Changes" comment="" />
+    <list default="true" id="e2979966-13e0-49c9-b299-ea62761663f2" name="Changes" comment=" commit 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mey14635"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mey14635/Python-Practice.git",
+    "accountId": "2c0722cc-f0a7-431a-8fcc-242f72b3605b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -21,9 +49,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.FactorielRecursive.executor": "Run",
+    "Python.FactorielWithLoop.executor": "Run",
+    "Python.ReverseString.executor": "Run",
+    "Python.SumOfDigits.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -43,8 +80,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745653042990</updated>
-      <workItem from="1745653044063" duration="13000" />
+      <workItem from="1745653044063" duration="6154000" />
     </task>
+    <task id="LOCAL-00001" summary="initail commit">
+      <option name="closed" value="true" />
+      <created>1745655043948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745655043948</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" commit 1">
+      <option name="closed" value="true" />
+      <created>1745655634674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745655634674</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" commit 1">
+      <option name="closed" value="true" />
+      <created>1745656520172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745656520172</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" commit 2">
+      <option name="closed" value="true" />
+      <created>1745658951423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745658951423</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" commit 2">
+      <option name="closed" value="true" />
+      <created>1745659108240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745659108240</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initail commit" />
+    <MESSAGE value=" commit 1" />
+    <MESSAGE value=" commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" commit 2" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pythonpractice$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1745657053877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pythonpractice$FactorielRecursive.coverage" NAME="FactorielRecursive Coverage Results" MODIFIED="1745658911295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pythonpractice$SumOfDigits.coverage" NAME="SumOfDigits Coverage Results" MODIFIED="1745656464905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pythonpractice$FactorielWithLoop.coverage" NAME="FactorielWithLoop Coverage Results" MODIFIED="1745657270311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
